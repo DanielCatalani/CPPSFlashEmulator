@@ -9,7 +9,7 @@ const path = require('path');
 let pluginName
 switch (process.platform) {
   case 'win32':
-    pluginName = 'flash/pepflashplayer64_32_0_0_303.dll'
+    pluginName = 'flash/pepflashplayer32_32_0_0_303.dll'
     break
   case 'darwin':
     pluginName = 'flash/PepperFlashPlayer.plugin'
