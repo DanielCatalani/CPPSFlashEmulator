@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: CPPSFlashEmulator-Setup-1.0.0.exe
+    sha512: YbYuZWHwjR/JWIW5+ebpHx26yY3bW/gXiLLdvIkbQ4+h/DYbbPcCMiP745HV5zztdaMVKCFVFcdl3z09k5EBGw==
+    size: 74115357
+path: CPPSFlashEmulator-Setup-1.0.0.exe
+sha512: YbYuZWHwjR/JWIW5+ebpHx26yY3bW/gXiLLdvIkbQ4+h/DYbbPcCMiP745HV5zztdaMVKCFVFcdl3z09k5EBGw==
+releaseDate: '2020-11-08T16:27:31.626Z'
