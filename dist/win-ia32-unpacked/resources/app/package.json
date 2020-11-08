@@ -1,0 +1,18 @@
+{
+  "name": "cppsflashemulator",
+  "version": "1.0.1",
+  "description": "CPPS Flash Emulator",
+  "main": "main.js",
+  "bugs": {
+    "url": "https://github.com/Julian45123/CPPSFlashEmulator/issues"
+  },
+  "homepage": "https://github.com/Julian45123/CPPSFlashEmulator#readme",
+  "repository": "https://github.com/Julian45123/CPPSFlashEmulator",
+  "author": "Julian45123",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "electron-is-dev": "^1.1.0",
+    "electron-updater": "^4.2.0"
+  }
+}
